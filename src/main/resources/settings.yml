@@ -66,8 +66,8 @@ settings:
   # messages_pl.yml    | code: pl   | language: pl
   # messages_de.yml    | code: de   | language: de
   # messages_cz.yml    | code: cz   | language: cz
-  # messages_zh-CN.yml | code zh-CN | language: zn-CH
-  # messages_zh-CN.yml | code zh-TW | language: zn-TW
+  # messages_zh_CN.yml | code: zh_CN | language: zh-CN
+  # messages_zh_TW.yml | code: zh_TW | language: zh-TW
   language: "en"
 
   # This option is only for bungee-cord!
@@ -97,10 +97,10 @@ settings:
 
   # Config your max-server-protocol and min-server-protocol for the check of the outdated-client and outdated-server.
   # You can see protocols here: https://minecraft.fandom.com/wiki/Protocol_version
-  # Default protocol versions are 1.8 to 1.19
+  # Default protocol versions are 1.8 to 1.20.1
 
-  # Default max protocol: 760 = 1.19.1
-  max-server-protocol: 760
+  # Default max protocol: 763 = 1.20.1
+  max-server-protocol: 763
 
   # Default min protocol 47 = 1.8.X
   min-server-protocol: 47
